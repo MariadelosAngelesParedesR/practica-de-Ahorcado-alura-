@@ -1,0 +1,12 @@
+{
+  "name": "bancopueblooracle",
+  "version": "1.0.0",
+  "description": "Cuentas Corrientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "María Paredes Alura",
+  "license": "ISC",
+  "type": "module"
+}
